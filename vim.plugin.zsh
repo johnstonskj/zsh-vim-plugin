@@ -5,7 +5,7 @@
 #
 # Description:
 #
-#   Add one-line description here...
+#   Zsh plugin to redirect vi to Vim.
 #
 # Public variables:
 #
