@@ -1,11 +1,8 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
 # Plugin Name: vim
+# Description: Zsh plugin to redirect vi to Vim.
 # Repository: https://github.com/johnstonskj/zsh-vim-plugin
-#
-# Description:
-#
-#   Zsh plugin to redirect vi to Vim.
 #
 # Public variables:
 #
